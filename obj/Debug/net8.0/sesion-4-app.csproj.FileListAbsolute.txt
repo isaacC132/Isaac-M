@@ -1,0 +1,14 @@
+C:\Users\isaac\Desktop\REPO\sesion-4-app\bin\Debug\net8.0\sesion-4-app.exe
+C:\Users\isaac\Desktop\REPO\sesion-4-app\bin\Debug\net8.0\sesion-4-app.deps.json
+C:\Users\isaac\Desktop\REPO\sesion-4-app\bin\Debug\net8.0\sesion-4-app.runtimeconfig.json
+C:\Users\isaac\Desktop\REPO\sesion-4-app\bin\Debug\net8.0\sesion-4-app.dll
+C:\Users\isaac\Desktop\REPO\sesion-4-app\bin\Debug\net8.0\sesion-4-app.pdb
+C:\Users\isaac\Desktop\REPO\sesion-4-app\obj\Debug\net8.0\sesion-4-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaac\Desktop\REPO\sesion-4-app\obj\Debug\net8.0\sesion-4-app.AssemblyInfoInputs.cache
+C:\Users\isaac\Desktop\REPO\sesion-4-app\obj\Debug\net8.0\sesion-4-app.AssemblyInfo.cs
+C:\Users\isaac\Desktop\REPO\sesion-4-app\obj\Debug\net8.0\sesion-4-app.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\REPO\sesion-4-app\obj\Debug\net8.0\sesion-4-app.dll
+C:\Users\isaac\Desktop\REPO\sesion-4-app\obj\Debug\net8.0\refint\sesion-4-app.dll
+C:\Users\isaac\Desktop\REPO\sesion-4-app\obj\Debug\net8.0\sesion-4-app.pdb
+C:\Users\isaac\Desktop\REPO\sesion-4-app\obj\Debug\net8.0\sesion-4-app.genruntimeconfig.cache
+C:\Users\isaac\Desktop\REPO\sesion-4-app\obj\Debug\net8.0\ref\sesion-4-app.dll
