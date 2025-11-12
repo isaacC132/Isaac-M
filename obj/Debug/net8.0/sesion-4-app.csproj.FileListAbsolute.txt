@@ -7,6 +7,7 @@ C:\Users\isaac\Desktop\REPO\sesion-4-app\obj\Debug\net8.0\sesion-4-app.Generated
 C:\Users\isaac\Desktop\REPO\sesion-4-app\obj\Debug\net8.0\sesion-4-app.AssemblyInfoInputs.cache
 C:\Users\isaac\Desktop\REPO\sesion-4-app\obj\Debug\net8.0\sesion-4-app.AssemblyInfo.cs
 C:\Users\isaac\Desktop\REPO\sesion-4-app\obj\Debug\net8.0\sesion-4-app.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Desktop\REPO\sesion-4-app\obj\Debug\net8.0\sesion-4-app.sourcelink.json
 C:\Users\isaac\Desktop\REPO\sesion-4-app\obj\Debug\net8.0\sesion-4-app.dll
 C:\Users\isaac\Desktop\REPO\sesion-4-app\obj\Debug\net8.0\refint\sesion-4-app.dll
 C:\Users\isaac\Desktop\REPO\sesion-4-app\obj\Debug\net8.0\sesion-4-app.pdb
